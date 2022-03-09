@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image:url(task6.png);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    color: white;
+}
+
+section{
+    margin-left: 7rem;
+}
+.mainText{
+    text-transform: capitalize;
+    padding: 10rem 0 0 5rem;
+    font-size: 50px;
+}
+
+.secText{
+    padding: 15px 0 0 5rem;
+    line-height: 2rem;
+}
+
+button{
+    padding: 15px 15px;
+    border-radius: 5px;
+    border-style: none;
+    
+}
+
+.button1{
+    margin: 15px 0 0 5rem;
+    color: #1FC1BC;
+}
+.button2{
+    margin: 15px 0 0 1rem;
+    background-color: transparent;
+    color: white;
+}
+i{
+    padding-right: 1rem;
+}
